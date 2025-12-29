@@ -16,7 +16,7 @@ Ce projet vise à reproduire l'échantillonneur de Gibbs (Single Move) pour esti
 
 ## 🌐 Consulter mon site
 Mon portfolio complet, incluant mes publications et mes notes de recherche, est disponible ici :
-👉 **[https://lam-rana.github.io](lam-rana.github.io)**
+👉 **[https://lam-rana.github.io](https://lam-rana.github.io)**
 
 ## 🛠️ Structure du dépôt
 - `_publications/` : Mes articles et rapports de recherche.
