@@ -1,6 +1,6 @@
 # Portfolio Académique & Recherche en Finance Quantitative
 
-Bienvenue sur le dépôt de mon site personnel. Ce site est propulsé par [AcademicPages](https://academicpages.github.io/) et hébergé sur GitHub Pages.
+Bienvenue sur le dépôt de mon site personnel.
 
 ## 🚀 À propos de moi
 Je suis chercheur/étudiant en **Finance Quantitative** et **Économétrie**. Mes travaux portent actuellement sur la modélisation de la volatilité et les méthodes bayésiennes.
